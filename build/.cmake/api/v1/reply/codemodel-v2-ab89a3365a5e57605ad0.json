@@ -1,0 +1,120 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "projects/hello_world",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "projects/hello_world",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "projects/gprof_samp",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "projects/gprof_samp",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpp_sandbox"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "cpp_hello_world",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "gprof_samp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "cpp_hello_world::@64e8b690104cb6a71e3c",
+					"jsonFile" : "target-cpp_hello_world-Release-24dc60de38ab95224a03.json",
+					"name" : "cpp_hello_world",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmon.out::@049f38539b71a1c079af",
+					"jsonFile" : "target-gmon.out-Release-d33f4406830806765b88.json",
+					"name" : "gmon.out",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gian/dev/sandbox/cpp_sandbox/build",
+		"source" : "/home/gian/dev/sandbox/cpp_sandbox"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

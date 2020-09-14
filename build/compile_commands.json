@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/gian/dev/sandbox/cpp_sandbox/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9     -O3   -o projects/hello_world/CMakeFiles/cpp_hello_world.dir/src/main.cpp.o -c /home/gian/dev/sandbox/cpp_sandbox/projects/hello_world/src/main.cpp",
+  "file": "/home/gian/dev/sandbox/cpp_sandbox/projects/hello_world/src/main.cpp"
+},
+
+{
+  "directory": "/home/gian/dev/sandbox/cpp_sandbox/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9     -O3   -o projects/gprof_samp/CMakeFiles/gmon.out.dir/src/main.cpp.o -c /home/gian/dev/sandbox/cpp_sandbox/projects/gprof_samp/src/main.cpp",
+  "file": "/home/gian/dev/sandbox/cpp_sandbox/projects/gprof_samp/src/main.cpp"
+}
+]

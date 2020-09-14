@@ -1,3 +1,8 @@
 /home/gian/dev/sandbox/cpp_sandbox/build/CMakeFiles/rebuild_cache.dir
 /home/gian/dev/sandbox/cpp_sandbox/build/CMakeFiles/edit_cache.dir
-/home/gian/dev/sandbox/cpp_sandbox/build/CMakeFiles/cpp_sandbox.dir
+/home/gian/dev/sandbox/cpp_sandbox/build/projects/hello_world/CMakeFiles/rebuild_cache.dir
+/home/gian/dev/sandbox/cpp_sandbox/build/projects/hello_world/CMakeFiles/edit_cache.dir
+/home/gian/dev/sandbox/cpp_sandbox/build/projects/hello_world/CMakeFiles/cpp_hello_world.dir
+/home/gian/dev/sandbox/cpp_sandbox/build/projects/gprof_samp/CMakeFiles/rebuild_cache.dir
+/home/gian/dev/sandbox/cpp_sandbox/build/projects/gprof_samp/CMakeFiles/edit_cache.dir
+/home/gian/dev/sandbox/cpp_sandbox/build/projects/gprof_samp/CMakeFiles/gmon.out.dir

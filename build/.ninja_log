@@ -1,0 +1,13 @@
+# ninja log v5
+0	390	1600044525137038607	projects/hello_world/CMakeFiles/cpp_hello_world.dir/src/main.cpp.o	edf187ccc2d9bb95
+391	521	1600044525265040209	projects/hello_world/cpp_hello_world	b542fe43520d0f3e
+0	58	1600044531169114070	projects/gprof_samp/CMakeFiles/gprof_samp.dir/src/main.cpp.o	9c09b289cac7e324
+0	48	1600044703087276745	projects/gprof_samp/CMakeFiles/gprof_samp.dir/src/main.cpp.o	9c09b289cac7e324
+0	47	1600044889612284032	projects/gprof_samp/CMakeFiles/gprof_samp.dir/src/main.cpp.o	9c09b289cac7e324
+47	121	1600044889684284214	projects/gprof_samp/gprof_samp	42d7dcd37fc390ca
+1	46	1600045070352775197	projects/gprof_samp/CMakeFiles/gprof_samp.dir/src/main.cpp.o	2e5819e06e35f4f6
+48	126	1600045070432775431	projects/gprof_samp/gprof_samp	d564aa45fff1faf
+0	105	1600045388693809123	projects/gprof_samp/CMakeFiles/gmon.out.dir/src/main.cpp.o	55879304c1774076
+105	184	1600045388773809408	projects/gprof_samp/gmon.out	c83121c6edd611cf
+1	138	1600045517434285365	../bin/gmon.out	4e350717dce4487
+0	182	1600045635254749217	../bin/gprof_samp-Release/gmon.out	dc9ad8c2e172bf19
